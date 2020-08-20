@@ -38,6 +38,7 @@ namespace GAProcessor
 				"data.connection_type",
 				"country_code",
 				"arrival_ts",
+				"ip",
 				"game_id",
 				"user_meta.install_ts",
 				"user_meta.cohort_week",
